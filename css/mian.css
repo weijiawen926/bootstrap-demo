@@ -203,8 +203,12 @@ h1{
 	cursor: pointer;
 }
 
-#right-background p{
-	padding: 10px 0px;
+#right-background #p1{
+	padding: 10px 0px 0px 0px;
+}
+
+#right-background #p2{
+	padding: 5px 0px 10px 0px;
 }
 
 #right-btn{
